@@ -140,6 +140,8 @@ results/
 
 # Benchmarks
 benchmarks/
+temp_model_step
+archive/
 
 test.py
 

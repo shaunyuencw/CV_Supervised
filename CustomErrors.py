@@ -1,0 +1,2 @@
+class ClassMismatchError(Exception):
+    pass
