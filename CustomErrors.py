@@ -1,2 +1,0 @@
-class ClassMismatchError(Exception):
-    pass
